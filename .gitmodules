@@ -1,0 +1,3 @@
+[submodule "libs/sdf-lab"]
+	path = libs/sdf-lab
+	url = https://github.com/jobesu14/SdfLab.git
