@@ -7,3 +7,6 @@ build/
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
+#Visual Studio specific
+.vs/
